@@ -75,7 +75,6 @@ def delete_completed(videos):
 
 def main():
     videos=load_data()
-    print(videos)
     while True:
         print('''
             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
